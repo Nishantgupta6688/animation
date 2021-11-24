@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ecf0f1;
+    margin-top: 20px;
+}
+
+.container{
+    margin: 10px;
+    position: relative;
+}
+
+h1{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+li{
+    list-style: none;
+    margin: 10px;
+    color: #ecf0f1;
+    background-color: #2980b9;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 100;
+    width: fit-content;
+    float: left;
+}
+
+input{
+    padding-left: 10px;
+}
+
+table{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card{
+    color:black;
+    width: 300px;
+    height: 200px;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.footer td{
+    width: fit-content;
+    margin: 0 auto;
+}
+
